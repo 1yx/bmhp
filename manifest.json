@@ -1,0 +1,17 @@
+{
+   "chrome_url_overrides": {
+      "newtab": "bookmarks.html"
+   },
+   "description": "Display all bookmarks on your home page.",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4WQdrZdv9Tknni91/4YanCbpCAbCQYVcxOV2EOrPsaKgOBiaZJ4hTclkLyprr0F57HNetglrOtxjUwksMTJLcOyKkXUozs8TvoK5at4kRNBy7JlzenJzTfwf0C8gHVauaNOzeE7rO/aOuIp6SBVzaZYxLqwpDHqbxup47FPp2fwIDAQAB",
+   "name": "Bookmarks Home Page",
+   "permissions": [ "bookmarks" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+  "version": "0.2",
+  "manifest_version": 2
+}
